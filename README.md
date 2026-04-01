@@ -9,8 +9,8 @@ This project demonstrates a GST (Goods and Services Tax) calculator built using 
 - Displays total amount including GST
 - Real-time calculation using Dynamic Actions (no button required)
 
-![GST Input](Application_file_and _ss/12.png)
-![GST Input](Application_file_and _ss/34.png)
+![GST Input](Application_file_and_ss/12.png)
+![GST Input](Application_file_and_ss/34.png)
 
 ## 🧠 Logic Used
 
